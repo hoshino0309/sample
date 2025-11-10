@@ -9,7 +9,7 @@ use Illuminate\Support\Facades\Storage;
 
 class BlogController extends Controller
 {
-    // 一覧画面表示
+    // 一覧画画面表示
     public function index()
     {
         // ブログデータを全て取得
